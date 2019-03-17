@@ -1,0 +1,6 @@
+#node-modules 
+/node_modules
+/ryanair-app/node_modules
+
+#vscode
+.vscode

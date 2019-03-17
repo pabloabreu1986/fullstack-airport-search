@@ -1,0 +1,19 @@
+{
+  "name": "ryanair-nodejs-test",
+  "version": "1.0.0",
+  "description": "FullStack nodejs tech test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ryanair_fe/ryanair-nodejs-test.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://gitlab.com/ryanair_fe/ryanair-nodejs-test/issues"
+  },
+  "homepage": "https://gitlab.com/ryanair_fe/ryanair-nodejs-test#README"
+}
